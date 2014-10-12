@@ -828,16 +828,16 @@
 	"zh-CN": {
 	  "name": "Chinese simplified",
 	  "native": "简体中文",
-	  "feature": "功能",
+	  "feature": "功能|特性",
 	  "background": "背景",
 	  "scenario": "场景|剧本",
 	  "scenario_outline": "场景大纲|剧本大纲",
 	  "examples": "例子",
-	  "given": "*|假如<|假设<|假定<",
-	  "when": "*|当<",
-	  "then": "*|那么<",
-	  "and": "*|而且<|并且<|同时<",
-	  "but": "*|但是<"
+	  "given": "*|假如<|假设<|假定<|给定<|指定",
+	  "when": "*|当<|若<",
+	  "then": "*|那么<|则<",
+	  "and": "*|而且<|并且<|同时<|且<",
+	  "but": "*|但是<|但<"
 	},
 	"zh-TW": {
 	  "name": "Chinese traditional",
